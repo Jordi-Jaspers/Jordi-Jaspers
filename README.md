@@ -40,4 +40,4 @@ Master graduate in Electronic & Software engineering, combined with 5+ years of 
 
 ### 📊 Stats
 
-![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordi-jaspers&show_icons=true&theme=dark) ![GitHub Streak](https://streak-stats.demolab.com?user=jordi-jaspers&theme=dark&border_radius=4.5)
+![Jordi's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordi-jaspers&show_icons=true&theme=dark)
