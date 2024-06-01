@@ -1,6 +1,6 @@
 # Jordi Jaspers
 
-**`Medior Software Engineer (Developer/Consultant)`**
+**`Senior Software Engineer (Developer/Consultant)`**
 
 Master graduate in Electronic & Software engineering, combined with 5+ years of professional experience in the IT industry and a passion for developing and discovering new technologies. Always striving to resolve issues and create new features as efficient as possible. Supporting code with enough test-driven design to ensure high quality solutions. Being involved in the complete Software Development Life Cycle, including analysis, design, development, testing, implementation, support, and maintenance of enterprise-level web applications mainly using Java/Java EE.
 
