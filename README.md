@@ -1,24 +1,26 @@
 # 👋 Hi, I'm Jordi Jaspers
 
-**`Software Engineer | Open Source Creator | Backend & Full Stack Developer`**
+**`Software Archtitect | Full-Stack | Open Source Creator | Founder of JFrameOSS`**
 
 🚀 Passionate about building performant, maintainable, and developer-friendly software.  
-I love turning complex systems into simple, elegant solutions using **Spring Boot**, **Svelte**, and modern architectures.  
-Currently focused on **Eventify.io** — an open source SaaS monitoring tool that makes service management effortless.
+I love turning complex systems into simple, elegant solutions using **Spring Boot**, **Svelte**, and modern architectures.
 
-💡 My mission? To craft intuitive tools that empower teams to monitor, manage, and improve their systems with confidence.  
-Always open to collaboration — whether it’s improving an open source project, sharing ideas, or discussing software design patterns.
+I'm the founder of **JFrameOSS** — an open-source organization committed to creating lightweight, intuitive, and high-quality tools for Java developers.  
+My focus: frameworks and utilities that make development smoother, faster, and more enjoyable.
+
+💡 Mission: Build software that blends simplicity, clarity, and performance — empowering developers to ship with confidence.  
+Always open to collaboration, knowledge-sharing, and good architectural debates ☕
 
 ---
 
-### 🌟 Featured Project: [Eventify.io](https://github.com/Jordi-Jaspers/eventify)
+### 🌟 Featured Work: [JFrameOSS](https://github.com/JFrameOSS)
 
-> *An intuitive tool to manage and monitor your services via intelligent event creation.*
+> *Open-source tools & frameworks built for modern Java developers.*
 
-- 🧠 Built with **Spring Boot**, **SvelteKit**, and **TimescaleDB**
-- 🧩 Focused on **extensible architecture** and **API-first design**
-- 🔍 Open for contributors who love backend optimization, observability, and data visualization  
-  👉 [Get involved here →](https://github.com/Jordi-Jaspers/eventify/issues)
+- 🧱 Focused on simplicity and developer experience  
+- ⚡ Performance-minded utilities & frameworks  
+- 🤝 Welcoming contributors who love clean code, architecture, and Java ecosystem innovation  
+  👉 *Get involved and help shape the future of Java tooling*
 
 ---
 
@@ -42,10 +44,10 @@ Always open to collaboration — whether it’s improving an open source project
 ### 🧑‍💻 About Me
 
 - 🎓 Master’s degree in **Electronic & Software Engineering**
-- 💼 5+ years of professional experience across **enterprise-level web applications**
-- ⚙️ Enjoy working across the full SDLC — from design to deployment
-- 🧠 Passionate about **clean architecture**, **TDD**, and **performance tuning**
-- ☕ Coffee-fueled coder who loves mentoring and open source
+- 💼 5+ years building enterprise-scale platforms & systems
+- 🧠 Deeply into **clean architecture**, **performance optimization**, and **TDD**
+- 🏗️ Love designing systems end-to-end — from concept to deployment
+- ☕ Coffee-powered open source enjoyer
 
 ---
 
